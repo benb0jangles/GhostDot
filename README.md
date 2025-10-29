@@ -144,8 +144,7 @@ Building advanced optics takes time, testing, and expensive components. Your sup
 
 ### Become a Sponsor
 
-[![GitHub Sponsors](https://img.shields.io/badge/Sponsor-❤️-red.svg)](https://github.com/sponsors/yourusername)
-[![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-☕-yellow.svg)](https://buymeacoffee.com/yourusername)
+[![GitHub Sponsors](https://img.shields.io/badge/Sponsor-❤️-red.svg)](https://github.com/benb0jangles)
 
 **Sponsorship Tiers:**
 - 🥉 **Bronze ($5/month)** - Your name in README
