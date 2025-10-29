@@ -1,9 +1,7 @@
 # GhostDot 🎯
 Airsoft Smart Red Dot HUD
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Status: Active Development](https://img.shields.io/badge/Status-Active%20Development-green.svg)]()
-[![Platform: ESP32](https://img.shields.io/badge/Platform-ESP32--C3-blue.svg)]()
 
 > **Advanced targeting computer and targeting system for precision airsoft sports**
 
