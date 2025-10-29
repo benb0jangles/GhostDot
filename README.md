@@ -32,10 +32,12 @@ The **Smart Target System** is a revolutionary precision aiming solution designe
 
 ### Targeting Mode
 ![Targeting System](https://github.com/benb0jangles/GhostDot/blob/main/img/gif%20target.gif)
+
 *Real-time ballistic corrections with wind compensation and elevation adjustments*
 
 ### Navigation Mode
 ![Navigation](https://github.com/benb0jangles/GhostDot/blob/main/img/gif%20nav.gif)
+
 *Turn-by-turn navigation with team messaging*
 
 ### Motion Tracker
