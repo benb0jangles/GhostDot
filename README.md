@@ -3,7 +3,7 @@ Airsoft Smart Red Dot HUD
 
 [![Status: Active Development](https://img.shields.io/badge/Status-Active%20Development-green.svg)]()
 
-[![GhostDot](https://img.youtube.com/vi/YZAu6HywTmE/0.jpg)](https://www.youtube.com/watch?v=YZAu6HywTmE)> **Advanced targeting computer and targeting system for precision airsoft sports**
+<video src="https://www.youtube.com/shorts/YZAu6HywTmE" width="320" height="240" controls></video> **Advanced targeting computer and targeting system for precision airsoft sports**
 
 A next-generation smart optic that combines real-time environmental sensing, inertial tracking, and target computation to deliver professional-grade target correction in a compact, affordable package.
 
