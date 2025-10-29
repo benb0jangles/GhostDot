@@ -106,13 +106,13 @@ The **Smart Target System** is a revolutionary precision aiming solution designe
 - ✅ target computation engine
 - ✅ Multi-mode display system
 
-### Version 1.1 (Q1 2025)
+### Version 1.1 (Q1 2026)
 - ⏳ Hardware rangefinder integration
 - ⏳ External wind sensor support
 - ⏳ Wireless data logging
 - ⏳ Mobile app companion
 
-### Version 2.0 (Q2 2025)
+### Version 2.0 (Q2 2026)
 - 📋 AI-assisted target recognition
 - 📋 Bluetooth weapon integration
 - 📋 Cloud shot statistics
