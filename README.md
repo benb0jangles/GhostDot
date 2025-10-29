@@ -31,16 +31,20 @@ The **Smart Target System** is a revolutionary precision aiming solution designe
 ## 📸 Screenshots
 
 ### Targeting Mode
-![Targeting System](https://via.placeholder.com/400x400/000000/00FF00?text=Crosshair+with+Ballistic+Correction)
+![Targeting System](https://github.com/benb0jangles/GhostDot/blob/main/img/gif%20target.gif)
 *Real-time ballistic corrections with wind compensation and elevation adjustments*
 
 ### Navigation Mode
-![Navigation](https://via.placeholder.com/400x400/000000/00FF00?text=GPS+Navigation+Display)
+![Navigation](https://github.com/benb0jangles/GhostDot/blob/main/img/gif%20nav.gif)
 *Turn-by-turn navigation with team messaging*
 
 ### Motion Tracker
-![Motion Tracker](https://via.placeholder.com/400x400/000000/00FF00?text=M314+Motion+Tracker)
+![Motion Tracker](https://github.com/benb0jangles/GhostDot/blob/main/img/gif%20tracker.gif)
 *360° situational awareness with contact classification*
+
+### Team Stats
+![Team Stats](https://github.com/benb0jangles/GhostDot/blob/main/img/gif%20team.gif)
+*Connected Team Data*
 
 ---
 
