@@ -42,10 +42,12 @@ The **Smart Target System** is a revolutionary precision aiming solution designe
 
 ### Motion Tracker
 ![Motion Tracker](https://github.com/benb0jangles/GhostDot/blob/main/img/gif%20tracker.gif)
+
 *360° situational awareness with contact classification*
 
 ### Team Stats
 ![Team Stats](https://github.com/benb0jangles/GhostDot/blob/main/img/gif%20team.gif)
+
 *Connected Team Data*
 
 ---
