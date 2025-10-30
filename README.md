@@ -1,10 +1,10 @@
 # GhostDot 🎯
 Airsoft Smart Red Dot HUD
 
-*<a href="https://dalybulge.blogspot.com/2025/10/smart-scope.html" target="_blank" rel="noopener noreferrer">
+<a href="https://dalybulge.blogspot.com/2025/10/smart-scope.html" target="_blank" rel="noopener noreferrer">
   Read my blog post
 </a>
-**
+
 
 [![Status: Active Development](https://img.shields.io/badge/Status-Active%20Development-green.svg)]()
 
