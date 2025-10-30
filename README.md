@@ -3,7 +3,7 @@ Airsoft Smart Red Dot HUD
 
 [![Status: Active Development](https://img.shields.io/badge/Status-Active%20Development-green.svg)]()
 
-![Targeting System](https://github.com/benb0jangles/GhostDot/blob/main/img/gif%20target.gif) 
+![Targeting System](https://github.com/benb0jangles/GhostDot/blob/main/img/export%20(8).gif) 
 
 **Advanced targeting computer and targeting system for precision airsoft sports**
 
